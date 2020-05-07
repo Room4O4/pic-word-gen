@@ -1,0 +1,23 @@
+{
+  "name": "pic-word-gen",
+  "version": "1.0.0",
+  "description": "A word generator for a pictionary game",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sampathBlam/pic-word-gen.git"
+  },
+  "keywords": [
+    "pic",
+    "pic-word"
+  ],
+  "author": "Sampath Kumar Krishnan <sampathblam@users.noreply.github.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sampathBlam/pic-word-gen/issues"
+  },
+  "homepage": "https://github.com/sampathBlam/pic-word-gen#readme"
+}
