@@ -1,4 +1,6 @@
 # pic-word-gen
+[![Version npm](https://img.shields.io/npm/v/pic-word-gen.svg?logo=npm)](https://www.npmjs.com/package/pic-word-gen)
+
 A word generator module for using in a pictionary
 
 # Installation
