@@ -1,7 +1,7 @@
 const utils = require('./utils');
 const words = require('./words.json');
 
-const MAX_WORD_INDEX = 50;
+const MAX_WORD_INDEX = 100;
 const wordlevels = ['easy', 'medium', 'hard']
 const defaultLevel = 'easy';
 
